@@ -1,1 +1,1 @@
-The following code is for hands-on lab portion of the online talk.
+The following code is for the hands-on lab portion of the online talk.
